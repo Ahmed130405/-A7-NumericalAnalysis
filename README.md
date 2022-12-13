@@ -1,2 +1,2 @@
-# -A7-NumericalAnalysis
+# A7NumericalAnalysis
 Stuff from A7 Numerical Analysis course
